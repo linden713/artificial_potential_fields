@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>	
+
+	<node name="apf" pkg="artificial_potential_fields" type="apf" output="screen" args=""/>
+
+</launch>

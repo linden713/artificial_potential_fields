@@ -1,0 +1,5 @@
+<launch>	
+
+  	<node name="apf" pkg="artificial_potential_fields" type="APF_unomni" output="screen" args=""/>
+  	
+</launch>
