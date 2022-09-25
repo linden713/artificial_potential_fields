@@ -5,11 +5,11 @@ ROS package for reactive obstacle avoidance using artificial potential fields.
 
 
 
-Terminal 1:
+run:
 
       roslaunch artificial_potential_fields APF.launch
 
-Terminal 2:
+or:
 
       roslaunch artificial_potential_fields APF_unomni.launch (moving forward demo)
 
