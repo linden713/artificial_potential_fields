@@ -1,4 +1,4 @@
-# artificial_potential_fields
+# Artificial_Potential_Fields
 ROS package for reactive obstacle avoidance using artificial potential fields.
 
 2D APF
