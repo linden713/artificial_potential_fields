@@ -3,7 +3,7 @@ ROS package for reactive obstacle avoidance using artificial potential fields.
 
 2D APF
 
-![ ](https://github.com/linden713/artificial_potential_fields/blob/master/Results/gazebo.gif)
+![ ](https://github.com/linden713/artificial_potential_fields/blob/master/Results/APF.gif)
 
 run:
 
