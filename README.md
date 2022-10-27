@@ -3,7 +3,7 @@ ROS package for reactive obstacle avoidance using artificial potential fields.
 
 2D APF
 
-![image](https://github.com/linden713/artificial_potential_fields/blob/main/result/APF.gif)
+![image](https://github.com/linden713/artificial_potential_fields/blob/main/result/APF)
 
 run:
 
